@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/heesulshin/Cpp/CMake_tutorial/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/heesulshin/Cpp/CMake_tutorial/includes  -g   -Wall -Werror -o CMakeFiles/program.dir/main.cc.o -c /home/heesulshin/Cpp/CMake_tutorial/main.cc",
+  "file": "/home/heesulshin/Cpp/CMake_tutorial/main.cc"
+},
+{
+  "directory": "/home/heesulshin/Cpp/CMake_tutorial/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/heesulshin/Cpp/CMake_tutorial/includes  -g   -Wall -Werror -o CMakeFiles/program.dir/foo.cc.o -c /home/heesulshin/Cpp/CMake_tutorial/foo.cc",
+  "file": "/home/heesulshin/Cpp/CMake_tutorial/foo.cc"
+}
+]

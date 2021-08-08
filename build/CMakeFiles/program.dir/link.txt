@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/program.dir/main.cc.o CMakeFiles/program.dir/foo.cc.o  -o program 
